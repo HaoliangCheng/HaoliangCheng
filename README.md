@@ -9,4 +9,3 @@ I'm a **Full Stack Developer** passionate about building AI applications that ma
 
 ### 📫 Reach Me
 - [LinkedIn](https://www.linkedin.com/in/haoliangcheng/)
-- [Portfolio](https://haoliangcheng.github.io/)
